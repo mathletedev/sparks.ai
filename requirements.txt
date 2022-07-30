@@ -1,0 +1,9 @@
+PyAudio==0.2.12
+python-espeak==0.5
+pyttsx3==2.90
+requests==2.28.1
+rsa==4.9
+six==1.16.0
+SpeechRecognition==3.8.1
+uritemplate==4.1.1
+urllib3==1.26.11
